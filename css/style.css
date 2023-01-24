@@ -76,6 +76,7 @@ body{
 }
 
 .item{
+	background-color: #FFFFFF;
 	display: flex;
 	justify-content: space-between;
 	width: 100%;
